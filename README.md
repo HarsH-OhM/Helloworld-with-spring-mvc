@@ -1,0 +1,2 @@
+# Helloworld-with-spring MVC
+so in this repository i have made three different file using springboot framwork to explain this hello  world application. through this u can understand the difference b/w servlets(Servlets have HTML code within Java code.),jsp(JSP has Java code within HTML code.)and mvc architecture that how we can create any real time application by using this and which is better and best to go ahead with.
